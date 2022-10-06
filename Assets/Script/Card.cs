@@ -6,6 +6,7 @@ using UnityEngine.EventSystems;
 
 public class Card : MonoBehaviour, IDragHandler,IBeginDragHandler,IEndDragHandler
 {
+    //not the best code but it works
 
     private GameObject _copy;
 
